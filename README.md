@@ -1,1 +1,1 @@
-Practice for data structure & algorithms and class assignments
+self-practice for data structure & algorithms and class assignments
